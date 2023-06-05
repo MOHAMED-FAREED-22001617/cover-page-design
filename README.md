@@ -148,7 +148,7 @@ Add images and other contents using CSS record a screenshot of it.
 ## Output:
 
 ![Screenshot 2023-05-20 161250](https://github.com/MOHAMED-FAREED-22001617/cover-page-design/assets/121412904/e4823489-79c8-48f3-b754-c2dd3eae3261)
-![Screenshot 2023-05-20 162012](https://github.com/MOHAMED-FAREED-22001617/cover-page-design/assets/121412904/105b1837-d349-46f2-864f-b0bd15c648ab)
+![Screenshot 2023-06-05 213721](https://github.com/MOHAMED-FAREED-22001617/cover-page-design/assets/121412904/561b521b-9e70-486c-a34d-3494d11edd56)
 
 ## Result:
 Successfully designed a website to display the cover page of the book Responsive Web Design with HTML5 and CSS
