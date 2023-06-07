@@ -23,7 +23,7 @@ Add images and other contents using CSS record a screenshot of it.
     <style>
         .bookpage {
             width: 400px;
-            height: 600px;
+            height: 650px;
             background-image: url("romeo.jpeg");
             background-repeat: no-repeat;
             background-size: cover;
@@ -55,7 +55,7 @@ Add images and other contents using CSS record a screenshot of it.
             color: rgb(203, 23, 23);
             display: inline;
             position: relative;
-            top: 170px;
+            top: 150px;
             font-family: Helvetica, Arial, sans-serif;
             font-size: medium;
         }
@@ -116,26 +116,26 @@ Add images and other contents using CSS record a screenshot of it.
     <div class="bookpage">
         <div class="fade-overlay"></div>
         <div class="toptext">
-            An Unforgettable Tale of Love and Tragedy
+            EXPERT INSIGHT
         </div>
         <div class="tophr">
             <hr style="color: red;">
         </div>
         <div class="booktitle">
-            <h1>Romeo and Juliet</h1>
+            <h1>RESPONSIVE WEB DESIGN WITH HTML5 AND CSS</h1>
         </div>
         <div class="subtitle">
-            Romeo and Juliet is a tragedy written by William Shakespeare early in his career about the romance between two Italian youths from feuding families.
+            DEVELOP FUTURE-PROOF RESPONSIVE WEBSITES USING THE LATEST HTML5 AND CSS TECHNIQUES
         </div>
         <div class="photo">
             <img src="WhatsApp Image 2023-05-19 at 9.58.54 PM.jpeg" width="100" height="100" alt="Author Photo">
         </div>
         
         <div class="author">
-            <p><b>FOURTH EDITION</b></p>
+            <p><b>THIRD EDITION</b></p>
         </div>
         <div class="publisher">
-            SIMON7
+            PACKT>
         </div>
         <div class="edition">
             <b>F MOHAMED FAREED</b>
